@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StatisticsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-03-26T12:04:01" hostname="dhcp-asv-103" time="0.053">
+  <properties/>
+  <testcase name="topScorersReturnsRightPlayers" classname="StatisticsTest" time="0.034"/>
+  <testcase name="searchReturnsNullIfPlayerNotAdded" classname="StatisticsTest" time="0.012"/>
+  <testcase name="searchReturnsAddedPlayer" classname="StatisticsTest" time="0.002"/>
+  <testcase name="teamReturnsRightSizePlayerList" classname="StatisticsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
