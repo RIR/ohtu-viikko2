@@ -1,4 +1,7 @@
 
+Editoitu alkua masterissa.
+
+ toka
 Muutama 
 Rivi
 Tekstiä.
@@ -6,3 +9,7 @@ Tekstiä.
 Editoitu tokassa branchissa.
 
 Lisätty vielä lisää tokassa.
+
+Tuli jo virhe lisätään tähän jotain tässä masterissa.
+
+Korjattu vielä merge-virhekin.
