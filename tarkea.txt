@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Editoitu alkua masterissa.
+=======
+
+>>>>>>> toka
 Muutama 
 Rivi
 Tekstiä.
+
+Editoitu tokassa branchissa.
+
+Tuli jo virhe lisätään tähän jotain tässä masterissa.
